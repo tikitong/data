@@ -31,7 +31,6 @@ I attach here for all datasets the result returned by my program, which displays
 > [('pendant', 1129), ('bullseye', 708), ('kite', 446), ('needle', 184), ('triangle', 116), ('keyhole', 45), ('rectangle', 30), ('NA', 21)]
 > the number of different categories in the dataset is: 8
 > the total number of structures in the dataset is: 2679
-> 
 > ```
 
 2. *sysygy.geojson*, from the google community forum and provided by an independent user. The link to this dataset is [here](https://googleearthcommunity.proboards.com/thread/2690/ancient-saudi-stone-structures). After sorting, it contains exactly **395** structures listed.
@@ -40,7 +39,6 @@ I attach here for all datasets the result returned by my program, which displays
 > [('bullseye', 308), ('gate', 25), ('wheel', 18), ('complex', 13), ('kite', 12), ('cairn', 8), ('wall', 5), ('NA', 2), ('pendant', 1), ('camel', 1), ('domestic', 1), ('spike', 1)]
 > the number of different categories in the dataset is: 12
 > the total number of structures in the dataset is: 395
-> 
 > ```
 
 It contains some very interesting structures. For example the `camel` structure is amazing, have you seen it before? The `complex` structures are also incredibly rich. The `spike` structure is intriguing. 
@@ -73,7 +71,7 @@ After sorting each dataset, I used the Google Maps API, to add to each structure
 
 - **elevation**: indicates the altitude in meters above sea level at which the structure is located (example: 461.7255859375).
 
-- ==**global_code**==: is a 4-character regional code associated with a local code of 6 or more characters. This code is magic 🧙! Not only does it localize with great precision the structure to which it is associated, it transforms in a way the classical coordinates: latitude and longitude into a single code, but it is also **exclusive**. It will therefore also serve as a unique identifier associated with each structure (example: "7GQWHRRJ+W3"). Try to paste this code in Google Maps, you'll see it's a triangle !
+- **global_code**: is a 4-character regional code associated with a local code of 6 or more characters. This code is magic 🧙! Not only does it localize with great precision the structure to which it is associated, it transforms in a way the classical coordinates: latitude and longitude into a single code, but it is also **exclusive**. It will therefore also serve as a unique identifier associated with each structure (example: "7GQWHRRJ+W3"). Try to paste this code in Google Maps, you'll see it's a triangle !
 
 - **index**: is the unique identifier of the structure in the _.geojson_ file (example: 9001)
 
