@@ -1,0 +1,1995 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    40.31851507973245,
+                    24.49290682690238
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "pendant",
+                "elevation": 795.6190795898438,
+                "global_code": "7HP2F8V9+5C",
+                "label": "pendant",
+                "latitude": 24.49290682690238,
+                "locality": "Hirmah",
+                "longitude": 40.31851507973245,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.30337125017616,
+                    24.63766704253736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "pendant",
+                "elevation": 816.2742919921875,
+                "global_code": "7HP2J8Q3+38",
+                "label": "pendant",
+                "latitude": 24.63766704253736,
+                "locality": "As Suwadirah",
+                "longitude": 40.30337125017616,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.77387843388174,
+                    24.93780879069846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1152.312866210938,
+                "global_code": "7GPXWQQF+4H",
+                "label": "bullseye",
+                "latitude": 24.93780879069846,
+                "locality": "Al Hafirah",
+                "longitude": 39.77387843388174,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.75521114291089,
+                    24.93768176562401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1134.36474609375,
+                "global_code": "7GPXWQQ4+33",
+                "label": "bullseye",
+                "latitude": 24.93768176562401,
+                "locality": "Al Hafirah",
+                "longitude": 39.75521114291089,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.80188504341874,
+                    25.01892036677165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1057.196533203125,
+                "global_code": "7GQX2R92+HQ",
+                "label": "bullseye",
+                "latitude": 25.01892036677165,
+                "longitude": 39.80188504341874,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.82838420220534,
+                    24.92920585942263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1153.120849609375,
+                "global_code": "7GPXWRHH+M9",
+                "label": "bullseye",
+                "latitude": 24.92920585942263,
+                "locality": "Al Hafirah",
+                "longitude": 39.82838420220534,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.85690039668928,
+                    25.01878233186956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1093.016845703125,
+                "global_code": "7GQX2V94+GQ",
+                "label": "bullseye",
+                "latitude": 25.01878233186956,
+                "longitude": 39.85690039668928,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.92523502949527,
+                    25.02316182588272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1067.895263671875,
+                "global_code": "7GQX2WFG+73",
+                "label": "bullseye",
+                "latitude": 25.02316182588272,
+                "longitude": 39.92523502949527,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.28190969990824,
+                    24.55103731893789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 796.8225708007812,
+                "global_code": "7HP2H72J+CQ",
+                "label": "bullseye",
+                "latitude": 24.55103731893789,
+                "locality": "Hirmah",
+                "longitude": 40.28190969990824,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.2863882283773,
+                    24.4847265920577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 787.3050537109375,
+                "global_code": "7HP2F7MP+VH",
+                "label": "bullseye",
+                "latitude": 24.4847265920577,
+                "locality": "Hirmah",
+                "longitude": 40.2863882283773,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.29843981847615,
+                    24.49993975523432
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 793.1934814453125,
+                "global_code": "7HP2F7XX+X9",
+                "label": "bullseye",
+                "latitude": 24.49993975523432,
+                "locality": "Hirmah",
+                "longitude": 40.29843981847615,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.31279294507149,
+                    24.49696535756563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 797,
+                "global_code": "7HP2F8W7+Q4",
+                "label": "bullseye",
+                "latitude": 24.49696535756563,
+                "locality": "Hirmah",
+                "longitude": 40.31279294507149,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3607710005728,
+                    24.5420254675151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 804.0848388671875,
+                "global_code": "7HP2G9R6+R8",
+                "label": "bullseye",
+                "latitude": 24.5420254675151,
+                "locality": "Hirmah",
+                "longitude": 40.3607710005728,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.31133959740527,
+                    24.57135886623751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 820.5906372070312,
+                "global_code": "7HP2H8C6+GG",
+                "label": "bullseye",
+                "latitude": 24.57135886623751,
+                "locality": "Hirmah",
+                "longitude": 40.31133959740527,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.28843603298795,
+                    24.61111884159258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 812.4072265625,
+                "global_code": "7HP2J76Q+C9",
+                "label": "bullseye",
+                "latitude": 24.61111884159258,
+                "locality": "Hirmah",
+                "longitude": 40.28843603298795,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.35942789961813,
+                    24.03029255485761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 794.7268676757812,
+                "global_code": "7HP229J5+4Q",
+                "label": "bullseye",
+                "latitude": 24.03029255485761,
+                "longitude": 40.35942789961813,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.350931012076,
+                    24.03639460028418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 790.0682983398438,
+                "global_code": "7HP229P2+H9",
+                "label": "bullseye",
+                "latitude": 24.03639460028418,
+                "longitude": 40.350931012076,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.34748933779733,
+                    24.04349482503187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 799.3232421875,
+                "global_code": "7HP228VW+9X",
+                "label": "bullseye",
+                "latitude": 24.04349482503187,
+                "longitude": 40.34748933779733,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.32344960201389,
+                    24.05339897400567
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 793.8575439453125,
+                "global_code": "7HP2383F+99",
+                "label": "bullseye",
+                "latitude": 24.05339897400567,
+                "longitude": 40.32344960201389,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.06535837781393,
+                    23.32941760488135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1037.4072265625,
+                "global_code": "7HM283H8+Q4",
+                "label": "bullseye",
+                "latitude": 23.32941760488135,
+                "longitude": 40.06535837781393,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.06562143138811,
+                    23.34689564536423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1032.51708984375,
+                "global_code": "7HM283W8+Q6",
+                "label": "bullseye",
+                "latitude": 23.34689564536423,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 40.06562143138811,
+                "place": "Al Mahd",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.08627070116444,
+                    23.38442507612391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1101.863037109375,
+                "global_code": "7HM293MP+QG",
+                "label": "bullseye",
+                "latitude": 23.38442507612391,
+                "locality": "Al Soussiah",
+                "longitude": 40.08627070116444,
+                "place": "Al Mahd",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.08864793993638,
+                    23.39458629574717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1119,
+                "global_code": "7HM293VQ+RF",
+                "label": "bullseye",
+                "latitude": 23.39458629574717,
+                "locality": "Al Soussiah",
+                "longitude": 40.08864793993638,
+                "place": "Al Mahd",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.01000187611803,
+                    23.26812613620137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1081.741333007812,
+                "global_code": "7HM27296+72",
+                "label": "bullseye",
+                "latitude": 23.26812613620137,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 40.01000187611803,
+                "place": "وادي الفرع",
+                "province": "منطقة المدينة",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.04011477662223,
+                    23.27686695164868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1068.460083007812,
+                "global_code": "7HM272GR+P2",
+                "label": "bullseye",
+                "latitude": 23.27686695164868,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 40.04011477662223,
+                "place": "وادي الفرع",
+                "province": "منطقة المدينة",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.13465126987892,
+                    23.40883608779197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1139.9873046875,
+                "global_code": "7HM2C45M+GV",
+                "label": "bullseye",
+                "latitude": 23.40883608779197,
+                "locality": "Al Soussiah",
+                "longitude": 40.13465126987892,
+                "place": "Al Mahd",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.01416437924598,
+                    23.40687913839626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1078.775756835938,
+                "global_code": "7HM2C247+QM",
+                "label": "bullseye",
+                "latitude": 23.40687913839626,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 40.01416437924598,
+                "place": "وادي الفرع",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.00611272509012,
+                    23.42209288902325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1138.2490234375,
+                "global_code": "7HM2C2C4+RC",
+                "label": "bullseye",
+                "latitude": 23.42209288902325,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 40.00611272509012,
+                "place": "وادي الفرع",
+                "province": "منطقة المدينة",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.9705340501747,
+                    20.57632920921095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1380.415771484375,
+                "global_code": "7HG3HXGC+G6",
+                "label": "bullseye",
+                "latitude": 20.57632920921095,
+                "longitude": 41.9705340501747,
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.01923597078276,
+                    23.48876724913229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1134.475830078125,
+                "global_code": "7HM2F2Q9+GM",
+                "label": "bullseye",
+                "latitude": 23.48876724913229,
+                "longitude": 40.01923597078276,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.04712162812378,
+                    23.49062873733597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1181.588623046875,
+                "global_code": "7HM2F2RW+7R",
+                "label": "bullseye",
+                "latitude": 23.49062873733597,
+                "longitude": 40.04712162812378,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.03954153025821,
+                    23.4584693745453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1139.0634765625,
+                "global_code": "7HM2F25Q+9R",
+                "label": "bullseye",
+                "latitude": 23.4584693745453,
+                "longitude": 40.03954153025821,
+                "place": "وادي الفرع",
+                "province": "منطقة المدينة",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.23377364501375,
+                    27.33440939996083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1337.208251953125,
+                "global_code": "7GVV86MM+QG",
+                "label": "bullseye",
+                "latitude": 27.33440939996083,
+                "longitude": 37.23377364501375,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    45.71653354481315,
+                    23.7168256560722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 683.5850219726562,
+                "global_code": "7HM7PP88+PJ",
+                "label": "bullseye",
+                "latitude": 23.7168256560722,
+                "locality": "الهمجة",
+                "longitude": 45.71653354481315,
+                "place": "Al-Quwaiyah",
+                "province": "Riyadh Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.58258821354032,
+                    25.42834032046404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 480.6072082519531,
+                "global_code": "7GQVCHHM+82",
+                "label": "bullseye",
+                "latitude": 25.42834032046404,
+                "longitude": 37.58258821354032,
+                "place": "Umluj",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.26194799939472,
+                    27.27444877983819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1305.106567382812,
+                "global_code": "7GVV77F6+QQ",
+                "label": "bullseye",
+                "latitude": 27.27444877983819,
+                "longitude": 37.26194799939472,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.21150550376294,
+                    26.17981940005641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 324.1639404296875,
+                "global_code": "7GRV56H6+WJ",
+                "label": "bullseye",
+                "latitude": 26.17981940005641,
+                "longitude": 37.21150550376294,
+                "place": "Al Wajh",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.3201139029213,
+                    27.24893025426491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1302.075927734375,
+                "global_code": "7GVV68XC+H2",
+                "label": "bullseye",
+                "latitude": 27.24893025426491,
+                "longitude": 37.3201139029213,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.61620992036258,
+                    25.37917538497955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 464.4889526367188,
+                "global_code": "7GQV9JH8+MF",
+                "label": "bullseye",
+                "latitude": 25.37917538497955,
+                "longitude": 37.61620992036258,
+                "place": "Umluj",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.29145557100244,
+                    26.1216175380614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 318.1636047363281,
+                "global_code": "7GRV47CR+JH",
+                "label": "bullseye",
+                "latitude": 26.1216175380614,
+                "longitude": 37.29145557100244,
+                "place": "Al Wajh",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.64711657746435,
+                    25.40579472232632
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 616.4939575195312,
+                "global_code": "7GQVCJ4W+8R",
+                "label": "bullseye",
+                "latitude": 25.40579472232632,
+                "longitude": 37.64711657746435,
+                "place": "Umluj",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.61715335084279,
+                    26.49018020202282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1273.276123046875,
+                "global_code": "7GRWFJR8+3V",
+                "label": "bullseye",
+                "latitude": 26.49018020202282,
+                "locality": "نخلة",
+                "longitude": 38.61715335084279,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.75834300392298,
+                    26.43543674385207
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1288.410034179688,
+                "global_code": "7GRWCQP5+58",
+                "label": "bullseye",
+                "latitude": 26.43543674385207,
+                "longitude": 38.75834300392298,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.60297072332092,
+                    26.50761635737075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1249.142211914062,
+                "global_code": "7GRWGJ53+25",
+                "label": "bullseye",
+                "latitude": 26.50761635737075,
+                "locality": "نخلة",
+                "longitude": 38.60297072332092,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.71427004799547,
+                    26.40181608281341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1350.207641601562,
+                "global_code": "7GRWCP27+PP",
+                "label": "bullseye",
+                "latitude": 26.40181608281341,
+                "longitude": 38.71427004799547,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.82903370907545,
+                    25.63846304034867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 461.4104919433594,
+                "global_code": "7GQWJRQH+9J",
+                "label": "bullseye",
+                "latitude": 25.63846304034867,
+                "locality": "Hadiyah",
+                "longitude": 38.82903370907545,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.2927961395373,
+                    27.26792737544145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1300.144897460938,
+                "global_code": "7GVV779V+54",
+                "label": "bullseye",
+                "latitude": 27.26792737544145,
+                "longitude": 37.2927961395373,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.35768130500099,
+                    27.21346519516366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1306.481201171875,
+                "global_code": "7GVV6975+93",
+                "label": "bullseye",
+                "latitude": 27.21346519516366,
+                "longitude": 37.35768130500099,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.33842146371997,
+                    27.15919296164985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1275.979858398438,
+                "global_code": "7GVV585Q+M9",
+                "label": "bullseye",
+                "latitude": 27.15919296164985,
+                "longitude": 37.33842146371997,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.28580181790357,
+                    27.19996459241872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1231.367309570312,
+                "global_code": "7GVV57XP+X8",
+                "label": "bullseye",
+                "latitude": 27.19996459241872,
+                "locality": "Abu Rakah",
+                "longitude": 37.28580181790357,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.82965678807859,
+                    27.3489478970817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1367.060180664062,
+                "global_code": "7GVR8RXH+HV",
+                "label": "bullseye",
+                "latitude": 27.3489478970817,
+                "longitude": 36.82965678807859,
+                "place": "Tabouk",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.2052828080791,
+                    27.34158365570731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1369.714477539062,
+                "global_code": "7GVV86R4+J4",
+                "label": "bullseye",
+                "latitude": 27.34158365570731,
+                "longitude": 37.2052828080791,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    37.33236860375426,
+                    27.27615529905293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "bullseye",
+                "elevation": 1294.3310546875,
+                "global_code": "7GVV78GJ+FW",
+                "label": "bullseye",
+                "latitude": 27.27615529905293,
+                "longitude": 37.33236860375426,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.7477988975462,
+                    25.87530692013597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 627.3014526367188,
+                "global_code": "7GQWVPGX+44",
+                "label": "gate",
+                "latitude": 25.87530692013597,
+                "locality": "Wayban",
+                "longitude": 38.7477988975462,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.8237846951495,
+                    25.60217199890511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 467,
+                "global_code": "7GQWJR2F+VG",
+                "label": "gate",
+                "latitude": 25.60217199890511,
+                "locality": "Hadiyah",
+                "longitude": 38.8237846951495,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.94505532607819,
+                    27.66843795573712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 928.4877319335938,
+                "global_code": "7HV2MW9W+92",
+                "label": "gate",
+                "latitude": 27.66843795573712,
+                "locality": "Tuwayyah",
+                "longitude": 40.94505532607819,
+                "place": "Mawqaq",
+                "province": "Hail Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    36.37471728334108,
+                    27.79848653098187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1622.023315429688,
+                "global_code": "7GVRQ9XF+9V",
+                "label": "gate",
+                "latitude": 27.79848653098187,
+                "longitude": 36.37471728334108,
+                "place": "Tabouk",
+                "province": "Tabuk Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.83800551366775,
+                    26.83244303333788
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1098.945678710938,
+                "global_code": "7HR3RRJQ+X6",
+                "label": "gate",
+                "latitude": 26.83244303333788,
+                "locality": "Al Awshaziyah",
+                "longitude": 41.83800551366775,
+                "place": "Al Khazaiah",
+                "province": "Hail Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.86150592284179,
+                    25.48101547327168
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 514.4767456054688,
+                "global_code": "7GQWFVJ6+CJ",
+                "label": "gate",
+                "latitude": 25.48101547327168,
+                "locality": "Hadiyah",
+                "longitude": 38.86150592284179,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.79387008037317,
+                    26.2779917885751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1289.256958007812,
+                "global_code": "7GRW7QHV+5G",
+                "label": "gate",
+                "latitude": 26.2779917885751,
+                "longitude": 38.79387008037317,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    41.97290863908502,
+                    20.55718089134811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1316.870849609375,
+                "global_code": "7HG3HX4F+V5",
+                "label": "gate",
+                "latitude": 20.55718089134811,
+                "locality": "Jarab",
+                "longitude": 41.97290863908502,
+                "place": "Al Aqiq",
+                "province": "Al Bahah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.36498049458073,
+                    23.85746477197269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 833.7636108398438,
+                "global_code": "7HM2V947+XX",
+                "label": "gate",
+                "latitude": 23.85746477197269,
+                "locality": "Sehllat Al Mazrea",
+                "longitude": 40.36498049458073,
+                "place": "Al Mahd",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.81945037890227,
+                    25.76425051618372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 537.0269165039062,
+                "global_code": "7GQWQR79+PQ",
+                "label": "gate",
+                "latitude": 25.76425051618372,
+                "locality": "Birmah",
+                "longitude": 38.81945037890227,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    38.8643388738631,
+                    25.46712611725731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 513.8032836914062,
+                "global_code": "7GQWFV87+VP",
+                "label": "gate",
+                "latitude": 25.46712611725731,
+                "locality": "Hadiyah",
+                "longitude": 38.8643388738631,
+                "place": "AlUla",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.38989921756556,
+                    25.88196294088394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 783.2228393554688,
+                "global_code": "7GQXV9JQ+QX",
+                "label": "gate",
+                "latitude": 25.88196294088394,
+                "longitude": 39.38989921756556,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.29416842792791,
+                    24.08249631265987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 788.65478515625,
+                "global_code": "7HP237JV+XM",
+                "label": "gate",
+                "latitude": 24.08249631265987,
+                "locality": "Ad Dumayriyah",
+                "longitude": 40.29416842792791,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.83691404599865,
+                    24.92310454602644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1135.201416015625,
+                "global_code": "7GPXWRFP+6Q",
+                "label": "gate",
+                "latitude": 24.92310454602644,
+                "locality": "Al Hafirah",
+                "longitude": 39.83691404599865,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.84805978077343,
+                    24.91441824606136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1108.210327148438,
+                "global_code": "7GPXWR7X+Q6",
+                "label": "gate",
+                "latitude": 24.91441824606136,
+                "longitude": 39.84805978077343,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.00591263418473,
+                    23.33463421179112
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "wall",
+                "elevation": 1020.904968261719,
+                "global_code": "7HM282M4+V9",
+                "label": "wall",
+                "latitude": 23.33463421179112,
+                "longitude": 40.00591263418473,
+                "place": "وادي الفرع",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.75360450002068,
+                    24.96027564476683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "needle",
+                "elevation": 1127.56201171875,
+                "global_code": "7GPXXQ63+4C",
+                "label": "needle",
+                "latitude": 24.96027564476683,
+                "locality": "Al Hafirah",
+                "longitude": 39.75360450002068,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.79692479270987,
+                    25.01697046511994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "needle",
+                "elevation": 1065.625732421875,
+                "global_code": "7GQX2Q8W+QQ",
+                "label": "needle",
+                "latitude": 25.01697046511994,
+                "longitude": 39.79692479270987,
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.31981151805427,
+                    24.63821339711734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "spoke",
+                "elevation": 826.0194702148438,
+                "global_code": "7HP2J8Q9+7W",
+                "label": "wheel+",
+                "latitude": 24.63821339711734,
+                "locality": "Hirmah",
+                "longitude": 40.31981151805427,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.16028370855574,
+                    24.08366970314303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "spoke",
+                "elevation": 806.0526733398438,
+                "global_code": "7HP235M6+F4",
+                "label": "wheel",
+                "latitude": 24.08366970314303,
+                "locality": "Al Qafif",
+                "longitude": 40.16028370855574,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.56612431438666,
+                    25.12823444475826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 933.843505859375,
+                "global_code": "7GQX4HH8+7C",
+                "label": "gate",
+                "latitude": 25.12823444475826,
+                "longitude": 39.56612431438666,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.35372637117155,
+                    25.24864070620387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 866.0198974609375,
+                "global_code": "7GQX69X3+FF",
+                "label": "gate",
+                "latitude": 25.24864070620387,
+                "longitude": 39.35372637117155,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.42088262769531,
+                    25.23668570758772
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 873.5874633789062,
+                "global_code": "7GQX6CPC+M9",
+                "label": "gate",
+                "latitude": 25.23668570758772,
+                "locality": "Al Selselah",
+                "longitude": 39.42088262769531,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.75738445678241,
+                    24.90382862581495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1085.264038085938,
+                "global_code": "7GPXWQ34+GX",
+                "label": "gate",
+                "latitude": 24.90382862581495,
+                "locality": "Al Hafirah",
+                "longitude": 39.75738445678241,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.75235821592008,
+                    24.95066727703777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 1109.844604492188,
+                "global_code": "7GPXXQ22+7W",
+                "label": "gate",
+                "latitude": 24.95066727703777,
+                "locality": "Al Hafirah",
+                "longitude": 39.75235821592008,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.3141596723963,
+                    24.56154696334524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 814.5684204101562,
+                "global_code": "7HP2H867+JM",
+                "label": "gate",
+                "latitude": 24.56154696334524,
+                "locality": "Hirmah",
+                "longitude": 40.3141596723963,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.32061873079873,
+                    24.59382619340157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 827.700439453125,
+                "global_code": "7HP2H8VC+G6",
+                "label": "gate",
+                "latitude": 24.59382619340157,
+                "longitude": 40.32061873079873,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.57225585127627,
+                    25.12673255154631
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 939.2116088867188,
+                "global_code": "7GQX4HGC+MW",
+                "label": "gate",
+                "latitude": 25.12673255154631,
+                "longitude": 39.57225585127627,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.26419111849194,
+                    24.60155805502262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 805.7901000976562,
+                "global_code": "7HP2J727+JM",
+                "label": "gate",
+                "latitude": 24.60155805502262,
+                "locality": "As Suwadirah",
+                "longitude": 40.26419111849194,
+                "place": "Al Madinah Al Munawwarah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    40.35094761552023,
+                    24.01772589477522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 802.6514892578125,
+                "global_code": "7HP22992+39",
+                "label": "gate",
+                "latitude": 24.01772589477522,
+                "longitude": 40.35094761552023,
+                "place": "Al Hinakiyah",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.98724287248929,
+                    23.36489694692777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "gate",
+                "elevation": 986.3843383789062,
+                "global_code": "7GMX9X7P+XV",
+                "label": "gate",
+                "latitude": 23.36489694692777,
+                "locality": "Wadi Al Fora'a",
+                "longitude": 39.98724287248929,
+                "place": "وادي الفرع",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.60786898289554,
+                    25.1150101313776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "JQ JACOBS",
+                "description": "wheel",
+                "elevation": 956.809326171875,
+                "global_code": "7GQX4J85+24",
+                "label": "wheel",
+                "latitude": 25.1150101313776,
+                "longitude": 39.60786898289554,
+                "place": "Khaybar",
+                "province": "Al Madinah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,53 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    39.21668502246373,
+                    23.09386510400765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "BENGOODSPEED",
+                "description": "unknown structure",
+                "elevation": 219.2025604248047,
+                "global_code": "7GMX36V8+GM",
+                "label": "wheel",
+                "latitude": 23.09386510400765,
+                "locality": "Al-Abwa'",
+                "longitude": 39.21668502246373,
+                "place": "Rabigh",
+                "province": "Makkah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    39.15511468183743,
+                    23.0158415839601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "country": "SA",
+                "dataset": "BENGOODSPEED",
+                "description": "unknown structure",
+                "elevation": 160.7276763916016,
+                "global_code": "7GMX2584+82",
+                "label": "wheel",
+                "latitude": 23.0158415839601,
+                "locality": "Ri Harshah",
+                "longitude": 39.15511468183743,
+                "place": "Rabigh",
+                "province": "Makkah Province",
+                "resolution": 152.7032318115234
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
